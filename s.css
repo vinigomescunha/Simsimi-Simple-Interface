@@ -1,0 +1,49 @@
+body {
+  background-color: #c3e256;
+}
+
+#simsimi-container {
+  display: table;
+  margin: 0px auto;
+  max-width: 960px;
+  width: 100%;
+}
+
+#chat-input {
+  height: 50px;
+  width: 100%;
+}
+
+.box {
+  clear: both;
+  min-width: 150px;
+  background-color: #fff;
+  margin: 5px;
+  max-width: 50%;
+  width: 100%;
+  padding: 20px 10px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  font-size: 18px;
+}
+
+.chat-right {
+  float: right;
+  clear: both;
+  text-align: right;
+}
+
+.chat-left {
+  float: left;
+  text-align: left;
+  background-image: url("simsimi.png");
+  padding-left: 70px;
+  background-size: 60px;
+  background-repeat: no-repeat;
+}
+
+.emotional {
+  width: 30px;
+}
