@@ -9,11 +9,11 @@ http://sandbox.api.simsimi.com/request.p?key=
 Paid-key => 
 http://api.simsimi.com/request.p?key=
 */
-define('url', "http://sandbox.api.simsimi.com/request.p?key="); 
+define('url', "your_url_here"); 
 
 /* constant key
 trial or paid key */
-define('key', 'd6cd6765-eac1-4f4b-ac5b-16f02747fe89'); 
+define('key', 'your_key_here'); 
 
 /*Language Codes see http://developer.simsimi.com/lclist */
 define('lc', 'pt'); 
